@@ -13,23 +13,11 @@ Interested in **Machine Learning** (Computer Vision & LLMs) and **IoT**.
 
 ---
 
-## 🧠 Languages
-- Python
-- JavaScript
-
-## 🤖 ML / AI
-- TensorFlow
-- PyTorch
-- scikit-learn
-- YOLO
-
-## 🗄️ Databases
-- MySQL
-- PostgreSQL
-
-## 🧰 Other
-- Git
-- Figma
+## 🚀 Tech Stack
+🧠 Languages : Python, JavaScript
+🤖 ML / AI : TensorFlow, PyTorch, scikit-learn, YOLO
+🗄️ Databases : MySQL, PostgreSQL
+🧰 Other : Git, Figma
 
 ---
 
