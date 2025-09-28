@@ -22,7 +22,7 @@ Interested in **Machine Learning** (Computer Vision & LLMs) and **IoT**.
 ---
 
 ## 🌐 Find Me
-- **LinkedIn:** Andika Aryadi Putra
-- **Reach me:** `andford99 [at] gmail [dot] com`
+- **LinkedIn:** [Andika Aryadi Putra](www.linkedin.com/in/andika-aryadi-putra-65aa16291)
+- **Reach me:** [andford99@gmail.com](mailto:andford99@gmail.com)
 
 _Always open to collaboration on ML/CV, LLM, and IoT projects. Feel free to reach out!_
