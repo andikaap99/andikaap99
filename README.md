@@ -27,9 +27,6 @@ Interested in **Machine Learning** (Computer Vision & LLMs) and **IoT**.
 - MySQL
 - PostgreSQL
 
-## ☁️ Platforms / Cloud
-- Firebase (Auth, Firestore/RTDB, Storage)
-
 ## 🧰 Other
 - Git
 - Figma
@@ -39,10 +36,5 @@ Interested in **Machine Learning** (Computer Vision & LLMs) and **IoT**.
 ## 🌐 Find Me
 - **LinkedIn:** Andika Aryadi Putra
 - **Reach me:** `andford99 [at] gmail [dot] com`
-
----
-
-📈 Stats
-![Andika’s GitHub stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true)
 
 _Always open to collaboration on ML/CV, LLM, and IoT projects. Feel free to reach out!_
