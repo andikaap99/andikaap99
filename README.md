@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I’m Andika 👋
 
-<!--
-**andikaap99/andikaap99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indonesian computer science student at **Universitas Komputer Indonesia**. I build ML models with **TensorFlow** and **PyTorch**, and I’m passionate about bringing them into real-world **IoT** projects.
 
-Here are some ideas to get you started:
+Interested in **Machine Learning** (Computer Vision & LLMs) and **IoT**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Currently Learning
+- LLM fine-tuning (**LoRA/PEFT**)
+- Object Detection (YOLO)
+- ESP32 firmware (MQTT)
+
+---
+
+## 🧠 Languages
+- Python
+- JavaScript
+
+## 🤖 ML / AI
+- TensorFlow
+- PyTorch
+- scikit-learn
+- YOLO
+
+## 🗄️ Databases
+- MySQL
+- PostgreSQL
+
+## ☁️ Platforms / Cloud
+- Firebase (Auth, Firestore/RTDB, Storage)
+
+## 🧰 Other
+- Git
+- Figma
+
+---
+
+## 🌐 Find Me
+- **LinkedIn:** Andika Aryadi Putra
+- **Reach me:** `andford99 [at] gmail [dot] com`
+
+---
+
+📈 Stats
+![Andika’s GitHub stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true)
+
+_Always open to collaboration on ML/CV, LLM, and IoT projects. Feel free to reach out!_
